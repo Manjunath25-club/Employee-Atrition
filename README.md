@@ -1,5 +1,8 @@
 # Employee Attrition Prediction System
 
+StreamLit Live Link:   
+https://employee-atrition-7yu6z9tvwcwln6jtsqq3vq.streamlit.app/
+
 ## Overview
 
 The Employee Attrition Prediction System is a Machine Learning web application developed using Python and Streamlit. It predicts whether an employee is likely to leave an organization based on HR-related attributes. The application provides prediction results along with confidence scores and probability distributions to support HR decision-making.
@@ -157,3 +160,6 @@ Skills:
 ## License
 
 This project is developed for educational and portfolio purposes.
+
+
+
